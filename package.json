@@ -1,0 +1,32 @@
+{
+  "name": "treslek-wowhead",
+  "version": "0.0.0",
+  "description": "A treslek plugin that provides hooks for reading information from Wowhead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirwin/treslek-wowhead.git"
+  },
+  "keywords": [
+    "treslek",
+    "wow",
+    "hearthstone",
+    "wowhead",
+    "irc"
+  ],
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirwin/treslek-wowhead/issues"
+  },
+  "homepage": "https://github.com/jirwin/treslek-wowhead",
+  "dependencies": {
+    "async": "^0.9.0",
+    "irc-colors": "^1.1.0",
+    "sprintf": "^0.1.4",
+    "wowhead": "0.0.2"
+  }
+}
