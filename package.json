@@ -1,6 +1,6 @@
 {
   "name": "treslek-wowhead",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A treslek plugin that provides hooks for reading information from Wowhead",
   "main": "index.js",
   "scripts": {
